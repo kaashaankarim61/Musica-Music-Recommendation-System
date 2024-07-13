@@ -1,2 +1,2 @@
 # Musica-Music-Recommendation-System
-Music
+Music according to your taste
